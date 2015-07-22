@@ -8,7 +8,7 @@ This document will show you how to get up and running with the Gluu Server. It i
     a. [Customer Authentication](##customer-authentication)  
     b. [Multi-Factor Authentication](##multi-factor-authentication)  
 4. [Identity Management](#identity-management)   
-5. [Single Sign-On (SSO)](#single-sign-on)  
+5. [Single Sign-On (SSO)](#single-sign-on-sso)  
 6. [Web & API Access Management](#web--api-access-management)  
 
 ## What is the Gluu Server
