@@ -1,15 +1,6 @@
 # Getting Started
 
-This document will show you how to get up and running with the Gluu Server. It is broken down into the following sections: 
-
-1. [What is the Gluu Server](#what-is-the-Gluu-Server)  
-2. [Deployment](#deployment)  
-3. [Authentication](#authentication)   
-    a. [Customer Authentication](##customer-authentication)  
-    b. [Multi-Factor Authentication](##multi-factor-authentication)  
-4. [Identity Management](#identity-management)   
-5. [Single Sign-On (SSO)](#single-sign-on-(sso))  
-6. [Web & API Access Management](#web-&-api-access-management)  
+This document will show you how to get up and running with the Gluu Server. It is broken down into the following sections.
 
 ## What is the Gluu Server
 
