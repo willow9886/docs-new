@@ -2,7 +2,7 @@
 
 This document will show you how to get up and running with the Gluu Server. It is broken down into the following sections:
 
-1. [What is the Gluu Server](#what-is-the-Gluu-Server)  
+1. [What is the Gluu Server](#what-is-the-gluu-server)  
 2. [Deployment](#deployment)  
 3. [Authentication](#authentication)   
     a. [Customer Authentication](#customer-authentication)  
