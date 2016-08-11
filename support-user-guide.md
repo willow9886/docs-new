@@ -7,6 +7,7 @@ Supported Gluu Customers, known as "Named Contacts", can open private tickets, s
 The homepage of the Support Portal groups all public tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see who the ticket was opened by, whether the ticket is open or closed, and how many responses the issue has generated. If you are a supported customer, the homepage will also include private tickets created by you or one of your organizational colleagues.  
 
 # Registration
+Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that after registration you have elevated privileges such as access to your company's private tickets. 
 
 # Login 
 
