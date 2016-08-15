@@ -10,6 +10,8 @@ There are four different types of users on Gluu Support:
 
 2. Named Users: Users associated with an organization that has paid for a Gluu support contract.     
 
+2.1 Customer Account Admin: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their tickets (if necessary).  
+
 3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.  
 
 4. Staff: Gluu staff users.   
@@ -29,7 +31,7 @@ Using the front-end search located on the homepage, you can find and review exis
 # Opening Tickets
 After successfuly registering an account you can open tickets on Gluu Support. Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
 
-## All users; required fields
+## All users (required fields)
 
 - Gluu Server version
 - Operating system in use
@@ -39,22 +41,22 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 - Ticket description
 - Ticket category
 
-## All users; optional fields
+## All users (optional fields)
 
 - Link URL   
 - Send a copy to  
 
-## Named, Partner, & Staff users; required fields
+## Named, Partner, & Staff users (required fields)
 
 - Status  
 - Priority  
 - Privacy  
 
-## Named, Partner, & Staff users; optional fields
+## Named, Partner, & Staff users (optional fields)
 
 - Add up to five attachments 
 
-## Staff & Partner users; optional fields
+## Staff & Partner users (optional fields)
 
 - On behalf of  
 
@@ -72,4 +74,4 @@ Here you can view, search and refine all tickets associated with your organizati
 
 ## Partner Companies (Partner users only)
 
-In the Partner Companies section of the dashboard, users from a certified Gluu partner organization will be able to view, search and refine tickets associated with the Gluu customer accounts the partner is working with. 
+In the Partner Companies section of the dashboard, users from a certified Gluu partner organization can view, search and refine tickets from users associated with a Gluu customer account. Before customer's private tickets are viewable to the partner organization, the customer's admin contact must authorize the partner organization's access via the Support Entitlements > Partners section within the Dashboard. 
