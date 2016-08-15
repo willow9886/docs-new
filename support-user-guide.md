@@ -29,7 +29,7 @@ The Gluu Support Portal utilizes our own Gluu Server for login. If you have any 
 Using the front-end search located on the homepage, you can find and review existing public or private tickets that may be related to the issue or question for which you are seeking assistance. Searches can be performed against all available tickets in the database, or you can search for tickets within a specific category.
 
 # Opening Tickets
-After successfuly registering an account you can open tickets on Gluu Support. Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
+After successfuly registering an account you can open tickets on Gluu Support. Markdown formatting is supported. If you need to learn how to properly format in Markdown, you can review this [Markdown guide](http://dillinger.io/). Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
 
 ## All users (required fields)
 
@@ -59,6 +59,9 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 ## Staff & Partner users (optional fields)
 
 - On behalf of: Using this field partners and staff can create a ticket on behalf of a supported organization. Partners can only create tickets on behalf of customer organizations that have authorized them to do so.  
+
+# Responding to Tickets
+Markdown formatting is supported. Before submittin your response, you can also adjust certain properties of the ticket such as the status, priority, and more.  For information on any of the additional fields, please review the information above on opening a ticket. 
 
 # Dashboard
 
