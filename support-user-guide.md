@@ -8,14 +8,14 @@ There are four different types of users on Gluu Support:
 
 1. Community Users: Any user without a paid Gluu support contract.     
 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract.     
+2. Named Users: Users associated with an organization that has paid for a Gluu support contract.
 
-2.1 Customer Account Admin: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their tickets (if necessary).  
+    2.1 Customer Account Admin: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their tickets (if necessary).    
 
-3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.  
+3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.    
 
-4. Staff: Gluu staff users.   
-
+4. Staff: Gluu staff users.     
+  
 # Homepage
 The homepage of the Gluu Support Portal groups tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see who the ticket was opened by, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will include private tickets created by you or one of your organizational colleagues. 
 
