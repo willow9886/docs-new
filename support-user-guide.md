@@ -4,11 +4,11 @@ The [Gluu Support portal](https://support.gluu.org) provides a place where both 
 Supported Gluu Customers, known as "Named Contacts", can open private tickets, set ticket priorities, upload files, collaborate with team members and partners on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) and then [schedule a meeting](http://gluu.org/booking). 
 
 # Roles
-There are four different types on users on Gluu Support:
-1. Community Users: Any user without a paid Gluu support contract. 
-2. Named Users: Users associated with an organization that has paid for a Gluu support contract. 
-3. Partners: Gluu service partners that have been engaged by a Gluu customer to assist with operations, integrations, customizations, etc.
-4. Staff: Gluu staff users. 
+There are four different types on users on Gluu Support:  
+1. Community Users: Any user without a paid Gluu support contract.   
+2. Named Users: Users associated with an organization that has paid for a Gluu support contract.   
+3. Partners: Gluu service partners that have been engaged by a Gluu customer to assist with operations, integrations, customizations, etc.  
+4. Staff: Gluu staff users.   
 
 # Homepage
 The homepage of the Support Portal groups all public tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see who the ticket was opened by, whether the ticket is open or closed, and how many responses the issue has generated. If you are a supported customer, the homepage will also include private tickets created by you or one of your organizational colleagues.  
