@@ -1,5 +1,5 @@
 # Gluu Support User Guide
-The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answerws for questions about Gluu Server operations, customizations, integrations and more. 
+The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answers for questions about Gluu Server operations, customizations, integrations and more. 
 
 Supported Gluu Customers, known as "Named Contacts", can open private tickets, set ticket priorities, upload files, collaborate with team members and partner organizations on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) and then [schedule a meeting](http://gluu.org/booking). 
 
