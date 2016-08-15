@@ -61,7 +61,9 @@ After successfuly registering an account you can open tickets on Gluu Support. M
 - On behalf of: Using this field partners and staff can create a ticket on behalf of a supported organization. Partners can only create tickets on behalf of customer organizations that have authorized them to do so.  
 
 # Responding to Tickets
-Markdown formatting is supported. Before submitting your response, you can also adjust certain properties of the ticket such as the status, priority, and more.  For information on any of the additional fields, please review the information above on opening a ticket. 
+Markdown formatting is supported. Before submitting your response, you can also adjust certain properties of the ticket such as the status, priority, and more. For information on any of the additional fields, please review the information above on [opening a ticket](#opening-tickets). 
+
+Note: when adding a response, the default value for Privacy is `Inherit`. This simply means that your post will inherit the previous post's privacy value. So if all previous posts in the ticket were marked `Private`, your new submission will also be private. And vice versa if all previous posts were marked `Public`. 
 
 # Dashboard
 
