@@ -45,7 +45,7 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 
 - Link URL: Can be used to provide a link to supporting documents, such as logs and screenshots.    
 - Send a copy to: Can be used to notify a colleague about your new ticket or response. 
-- 
+
 ## Named, Partner, & Staff users (required fields)
 
 - Status  
