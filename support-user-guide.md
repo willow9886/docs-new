@@ -61,7 +61,7 @@ After successfuly registering an account you can open tickets on Gluu Support. M
 - On behalf of: Using this field partners and staff can create a ticket on behalf of a supported organization. Partners can only create tickets on behalf of customer organizations that have authorized them to do so.  
 
 # Responding to Tickets
-Markdown formatting is supported. Before submittin your response, you can also adjust certain properties of the ticket such as the status, priority, and more.  For information on any of the additional fields, please review the information above on opening a ticket. 
+Markdown formatting is supported. Before submitting your response, you can also adjust certain properties of the ticket such as the status, priority, and more.  For information on any of the additional fields, please review the information above on opening a ticket. 
 
 # Dashboard
 
