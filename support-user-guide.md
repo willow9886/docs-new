@@ -68,4 +68,8 @@ You can view, search and refine your open and closed tickets in the My Tickets s
 
 ## Company Tickets (Named, Partner, & Staff users)
 
-You can view, search and refine your open and closed tickets in the My Tickets section of the dashboard. 
+Here you can view, search and refine all tickets associated with your organization. This includes both tickets opened by you and tickets opened by your fellow organizational named contacts.  
+
+## Partner Companies (Partner users only)
+
+In the Partner Companies section of the dashboard, users from a certified Gluu partner organization will be able to view, search and refine tickets associated with the Gluu customer accounts the partner is working with. 
