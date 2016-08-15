@@ -64,14 +64,33 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 
 The dashboard allows you to manage personal and organizational tickets, support entitlements, alerts, and profile information. 
 
-## My Tickets (all users)
+## My Tickets (All users)
 
 You can view, search and refine your open and closed tickets in the My Tickets section of the dashboard. 
 
 ## Company Tickets (Named, Partner, & Staff users)
 
-Here you can view, search and refine all tickets associated with your organization. This includes both tickets opened by you and tickets opened by your fellow organizational named contacts.  
+Here you can view, search and refine all tickets associated with your organization. This includes tickets opened by you and tickets opened by other named contacts at your organization and / or your partners organization (if applicable).  
 
 ## Partner Companies (Partner users only)
 
-In the Partner Companies section of the dashboard, users from a certified Gluu partner organization can view, search and refine tickets from users associated with a Gluu customer account. Before customer's private tickets are viewable to the partner organization, the customer's admin contact must authorize the partner organization's access via the Support Entitlements > Partners section within the Dashboard. 
+In the Partner Companies section of the dashboard, users from a certified Gluu partner organization can view, search and refine tickets from users associated with a Gluu customer account. Before customer's private tickets are viewable to the partner organization, the customer's Admin Contact must authorize the partner organization's access via the Support Entitlements > Partners section of the Dashboard. 
+
+## My Alerts (All users)
+
+From the My Alerts section of the Dashboard, users can adjust whether or not they receive specific ticket notifications. In order to add or remove yourself from a tickets notifications, navigate to the ticket in question and click the blue button that will either say "Send me alerts" or "Remove me from alerts".  
+
+## My Profile
+
+Add or edit personal information about yourself in the My Profile section of the dashboard. 
+
+# Advanced Filters
+
+In all Dashboard ticket lists, you can toggle the "Show advanced filters" menu in order to refine and sort available tickets. Available filters include: 
+
+ - Status
+ - Priority
+ - Created date
+ - Category
+ - Created by (not available for community users) 
+ 
