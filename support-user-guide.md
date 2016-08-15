@@ -1,7 +1,7 @@
 # Gluu Support User Guide
 The [Gluu Support portal](https://support.gluu.org) provides a place where both Gluu customers and the community can get answerws for questions about Gluu Server operations, customizations, integrations and more. 
 
-Supported Gluu Customers, known as "Named Contacts", can open private tickets, set ticket priorities, upload files, collaborate with team members and partners on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) and then [schedule a meeting](http://gluu.org/booking). 
+Supported Gluu Customers, known as "Named Contacts", can open private tickets, set ticket priorities, upload files, collaborate with team members and partner organizations on private tickets, and more. If you are currently a community user and would like to become a supported customer, please review our [support pricing](http://gluu.org/pricing) and then [schedule a meeting](http://gluu.org/booking). 
 
 # Roles
 There are five types of users on Gluu Support:   
@@ -10,23 +10,23 @@ There are five types of users on Gluu Support:
 
 2. Named Users: Users associated with an organization that has paid for a Gluu support contract.
 
-3. Customer Account Admin: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their tickets (if necessary).    
+3. Customer Account Admins: This is the primary contact from the customer organization. Customer Account Admins have all of the privileges of a Named User, plus the ability to add / remove named contacts from their organization as well as authorize people from certified Gluu Partner organization's to see their private tickets (if necessary).    
 
 3. Partners: Certified Gluu service partners that are able to help Gluu customers with Gluu Server operations, integrations, customizations, etc.    
 
 4. Staff: Gluu staff users.     
   
 # Homepage
-The homepage of the Gluu Support Portal groups tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see who the ticket was opened by, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will include private tickets created by you or one of your organizational colleagues. 
+The homepage of the Gluu Support Portal organizes tickets into categories such as integrations, installation, maintenance, etc. On each ticket listing you can see who the ticket was opened by, whether the ticket is open or closed, and how many responses the issue has generated. The tickets that are displayed depend on your user role. If you are a supported customer or partner, the homepage will also include private tickets created by you or one of your organizational colleagues. 
 
 # Registration
-Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that after registration you have elevated privileges such as access to your company's private tickets. 
+Registration is fairly straightforward. One thing to note is that if you are associated with a supported organization, please use your organizational email address during registration. This will ensure that your user has the proper permissions. 
 
 # Login 
-The Gluu Support Portal utilizes Gluu's Gluu Server for login. If you have any trouble logging in, please send an email to [support@gluu.org](mailto:support@gluu.org)
+The Gluu Support Portal utilizes our own Gluu Server for login. If you have any trouble logging in, please send an email to [support@gluu.org](mailto:support@gluu.org)
 
 # Front-End Search
-Using the front-end search located on the homepage, you can find and review existing public or private tickets that may be related to the issue or question you are seeking answers to. Searches can be performed against all available tickets in the database, or you can select a specific category to search within. 
+Using the front-end search located on the homepage, you can find and review existing public or private tickets that may be related to the issue or question for which you are seeking assistance. Searches can be performed against all available tickets in the database, or you can search for tickets within a specific category.
 
 # Opening Tickets
 After successfuly registering an account you can open tickets on Gluu Support. Depending on your user role, you will be able to enter information for some or all of the following ticket fields. 
@@ -43,14 +43,14 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 
 ## All users (optional fields)
 
-- Link URL   
-- Send a copy to  
-
+- Link URL: Can be used to provide a link to supporting documents, such as logs and screenshots.    
+- Send a copy to: Can be used to notify a colleague about your new ticket or response. 
+- 
 ## Named, Partner, & Staff users (required fields)
 
 - Status  
 - Priority  
-- Privacy  
+- Privacy: By default, all customer tickets are marked as private. This means only you and other named contacts from your organization (or an authorized partner organization) can see and interact with the ticket. If the ticket information is not sensitive and you think it may benefit the Gluu community, you can make the ticket publicly viewable. 
 
 ## Named, Partner, & Staff users (optional fields)
 
@@ -58,7 +58,7 @@ After successfuly registering an account you can open tickets on Gluu Support. D
 
 ## Staff & Partner users (optional fields)
 
-- On behalf of  
+- On behalf of: Using this field partners and staff can create a ticket on behalf of a supported organization. Partners can only create tickets on behalf of customer organizations that have authorized them to do so.  
 
 # Dashboard
 
